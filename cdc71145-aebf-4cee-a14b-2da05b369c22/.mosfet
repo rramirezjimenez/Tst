@@ -1,0 +1,8 @@
+{
+  "layout": "Grid",
+  "rdbmsId": "cdc71145-aebf-4cee-a14b-2da05b369c22",
+  "hidden": false,
+  "insightName": "Grid Delta",
+  "recipe": "AddPanel(0); Panel(0)|SetPanelView(\"grid-delta\",\"\u003cencode\u003e{\"database\":\"0428f4fc-95a2-4d93-add1-80e1bbf61c14\"}\u003c/encode\u003e\");",
+  "engineId": "0428f4fc-95a2-4d93-add1-80e1bbf61c14"
+}
